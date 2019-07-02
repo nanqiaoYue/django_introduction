@@ -1,3 +1,4 @@
+# -*-encoding=utf8 -*-
 """
 WSGI config for django_introduction project.
 

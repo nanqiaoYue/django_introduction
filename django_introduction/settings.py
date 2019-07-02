@@ -1,3 +1,4 @@
+# -*-encoding=utf8 -*-
 """
 Django settings for django_introduction project.
 

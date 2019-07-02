@@ -1,3 +1,4 @@
+# -*-encoding=utf8 -*-
 """django_introduction URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
